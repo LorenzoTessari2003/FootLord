@@ -20,11 +20,17 @@ Welcome to **FootLord**, the most immersive and realistic football management si
 
 Here are some glimpses of the thrilling management experience you'll have with FootLord:
 
-![Team Management](https://example.com/screenshots/team_management.png)
+![Competitions Overview](https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/competitions.jpg)
 
-![Matchday Overview](https://example.com/screenshots/matchday_overview.png)
+![Matchday Overview](https://example.com/screenshots/match.jpg)
 
-![In-depth Statistics](https://example.com/screenshots/statistics.png)
+![Lineup Overview](https://example.com/screenshots/lineup.jpg)
+
+![Transfer Offers Overview](https://example.com/screenshots/transfer_offer.jpg)
+
+![Player Statistics Overview](https://example.com/screenshots/player.jpg)
+
+![Finances Overview](https://example.com/screenshots/finances.jpg)
 
 ## Get Started Today
 
