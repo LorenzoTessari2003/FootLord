@@ -20,22 +20,20 @@ Welcome to **FootLord**, the most immersive and realistic football management si
 
 Here are some glimpses of the thrilling management experience you'll have with FootLord:
 
-<img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/competitions.jpg" alt="Competitions Overview" width="500">
-
 <div style="display: flex;">
  <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/competitions.jpg" alt="Competitions Overview" width="45%" style="margin-right: 10;">
-  <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshotsmatch.jpg" alt="Matchday Overview" width="45%">
+  <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/match.jpg" alt="Matchday Overview" width="45%">
 </div>
 
-![Matchday Overview](https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshotsmatch.jpg)
+![Matchday Overview](https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/match.jpg)
 
-![Lineup Overview](https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshotslineup.jpg)
+![Lineup Overview](https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/lineup.jpg)
 
-![Transfer Offers Overview](https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshotstransfer_offer.jpg)
+![Transfer Offers Overview](https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/transfer_offer.jpg)
 
-![Player Statistics Overview](https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshotsplayer.jpg)
+![Player Statistics Overview](https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/player.jpg)
 
-![Finances Overview](https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshotsfinances.jpg)
+![Finances Overview](https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/finances.jpg)
 
 ## Get Started Today
 
