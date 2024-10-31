@@ -22,6 +22,11 @@ Here are some glimpses of the thrilling management experience you'll have with F
 
 <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/competitions.jpg" alt="Competitions Overview" width="500">
 
+<div style="display: flex;">
+ <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/competitions.jpg" alt="Competitions Overview" width="45%" style="margin-right: 10;">
+  <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshotsmatch.jpg" alt="Matchday Overview" width="45%">
+</div>
+
 ![Matchday Overview](https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshotsmatch.jpg)
 
 ![Lineup Overview](https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshotslineup.jpg)
