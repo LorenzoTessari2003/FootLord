@@ -38,7 +38,7 @@ Follow us for the latest news, updates, and tips on FootLord:
 
 ---
 
-**Note**: This game is continually updated with new features, tweaks, and improvements to make sure your football management experience remains fresh and exciting. If you have feedback or suggestions, feel free to open an issue or contact us!
+**Note**: This game is continually updated with new features, tweaks, and improvements to make sure your football management experience remains fresh and exciting. If you have feedback or suggestions, feel free to open an issue or contact us at footlord.info@gmail.com!
 
 Let the game begin, manager!
 
