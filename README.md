@@ -21,15 +21,15 @@ Welcome to **FootLord**, the most immersive and realistic football management si
 Here are some glimpses of the thrilling management experience you'll have with FootLord:
 
 <div style="display: flex;">
- <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/competitions.jpg" alt="Competitions Overview" width="33%" style="margin-right: 3%;">
- <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/match.jpg" alt="Matchday Overview" width="33%" style="margin-right: 3%;">
- <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/lineup.jpg" alt="Lineup Overview" width="33%">
+ <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/competitions.jpg" alt="Competitions Overview" width="30%" style="margin-right: 5%;">
+ <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/match.jpg" alt="Matchday Overview" width="30%" style="margin-right: 5%;">
+ <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/lineup.jpg" alt="Lineup Overview" width="30%">
 </div>
 
 <div style="display: flex;">
- <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/transfer_offer.jpg" alt="Transfer Offers Overview" width="33%" style="margin-right: 3%;">
- <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/player.jpg" alt="Player Statistics Overview" width="33%" style="margin-right: 3%;">
- <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/finances.jpg" alt="Lineup Overview" width="33%">
+ <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/transfer_offer.jpg" alt="Transfer Offers Overview" width="30%" style="margin-right: 5%;">
+ <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/player.jpg" alt="Player Statistics Overview" width="30%" style="margin-right: 5%;">
+ <img src="https://github.com/LorenzoTessari2003/FootLord/blob/main/Screenshots/finances.jpg" alt="Lineup Overview" width="30%">
 </div>
 
 ## Get Started Today
